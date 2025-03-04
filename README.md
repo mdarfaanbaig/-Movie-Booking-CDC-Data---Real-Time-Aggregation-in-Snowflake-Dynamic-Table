@@ -13,6 +13,7 @@
 ✅ Data Aggregation & Visualization – Uses Snowflake Snowpark for data transformation and Altair/Matplotlib for charts.
 
 
+
 Tech Stack : Python, Snowflake Dynamic Table, Snowflake Stream, Snowflake Tasks, Streamlit
 
 -> Create Snowflake table which will keep raw movies booking data
